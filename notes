@@ -10,7 +10,7 @@ AWS Security
 
 I will be checking below 3 things first
 
-1. Security Groups(mainly Databases) which are open to public, when it comes to Security groups we should restrict it from public access and allow only to specific IP address which is recognized. Plus the Network Access Control Lists and Reduce the Ingress access to specific IP and ports
+1. Security Groups(mainly Databases) which are open to public, when it comes to Security groups we should restrict it from public access and allow only to specific IP addressi/ranges which is recognized. Plus the Network Access Control Lists and Reduce the Ingress access to specific IP and ports in a VPC.
 
 2.Cloud Trail : I will make sure Cloud Trail is enabled so that we can have a close look on API access to our AWS accounts.
 
