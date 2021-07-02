@@ -1,12 +1,12 @@
-## Infrastructure as Code
+Infrastructure as Code
 
 When Cloud computing started booming there was a need to automate the infrastructure creation, tools like Terraform helps us to achieve this goal. IAC helps to write human readable code to create a computer based infrastructure. This helps to solve many issues with scaling the infrastructure, speed of delivery, reducing human manual configuration errors and more efficient and cost effective(less people need to manage infrastructure). 
 
-## Observability
+Observability
 
 When we are moving from monolithic to micro service environment, there is a need to monitor this multi service environment.there is a need to monitor this multi service environment and the communications between them. From my personal experience when I worked in micro service migration of Bixby(Samsung Bot) from Ec2 to Kubernetes I have configured Kiali to monitor the Cluster Service Mesh and used Istio to manage the Ingress and Envoy Proxy. Which helped me to observe and manage secure encrypted communication in between the micro services. 
 
-## AWS Security
+AWS Security
 
 I will be checking below 3 things first
 
